@@ -1,0 +1,544 @@
+
+::placeholder {
+	text-align:center;
+    color: #fff;
+    opacity: 0.9; /* Firefox */
+}
+
+:-ms-input-placeholder { 
+	text-align:center;/* Internet Explorer 10-11 */
+   color: #fff;
+}
+
+::-ms-input-placeholder { 
+	text-align:center;/* Microsoft Edge */
+   color: #fff;
+}
+.menu button{
+	    border: none;
+    color: #fff;
+    padding: 7px;
+    background: #634607;
+}
+
+#section hr{
+			    padding-bottom: 3px;
+    width: 40px;
+    position: relative;
+    border-top: 3px solid;
+    background: transparent;
+    color:#423930;
+        margin: 40px 0 45px;
+		}
+#section1 hr{
+			    padding-bottom: 3px;
+    width: 40px;
+    position: relative;
+    border-top: 3px solid;
+    background: transparent;
+    color:#423930;
+       
+		}
+#section hr:after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-top: 1px solid;
+}
+
+
+#background1 hr{
+			    padding-bottom: 3px;
+    width: 40px;
+    position: relative;
+    border-top: 3px solid;
+    background: transparent;
+    color:#423930;
+       
+		}
+#background1 hr:after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-top: 1px solid;
+}
+#section1 hr:after {
+    content: '';
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-top: 1px solid;
+}
+	
+
+	#section h1{
+		font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 1.1;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+    text-align: inherit;
+    color: #423930;
+    text-align: left;
+	}
+	#section h5{
+		font-style: italic;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.6;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+   text-align: left;
+    color: #000000;
+	}
+	#section p{
+		font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.6;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #888888;
+	}
+
+#service h4{
+	font-style: italic;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.6;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #423930;
+}
+
+#service h3{
+	    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.6;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #423930;
+}
+
+	#section1 h1{
+		font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 1.1;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+    text-align: inherit;
+    color: #423930;
+    text-align: left;
+	}
+	#section1 h5{
+		font-style: italic;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.6;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+   text-align: left;
+    color: #000000;
+	}
+	#section1 p{
+		font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.6;
+    font-family: Garamond, serif;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #888888;
+	}
+
+
+
+
+body {
+overflow-x: hidden;
+padding-bottom: 30px;
+  height: 100%;
+}
+
+.icon-prev{
+	font-size:50px; 	 
+}
+
+.fa {
+ 
+  font-size: 15px;
+ 
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+.fa:hover {
+    border-radius:17px;
+    opacity: 0.7;
+    background-color:#fff;
+    color:black;
+}
+
+.fa-facebook {
+	 width: 25px;
+  background: ;
+  color: #fff;
+}
+
+.fa-twitter {
+ width: 25px;
+  color: #fff;
+}
+
+.fa-google {
+ width: 25px;
+  color: #fff;
+}
+
+.fa-linkedin{
+	width: 25px;
+  color: #fff;
+	
+}
+.fa-youtube{
+ width: 25px;
+  color: #fff;
+}
+.fa-instagram{
+ width: 25px;
+  color: #fff;
+}
+.fa-pinterest{
+ width: 25px;
+  color: #fff;
+}
+
+
+
+img{
+	width: 100%;
+}
+
+#img1{
+	height:300px;
+	width:100%;
+}
+.col-md-6{
+	padding-left:0px;
+	padding-right:0px;
+}
+.row{
+	margin-left:0px;
+	margin-right:0px;
+}
+
+
+.fa-mobile{
+	color:#398c59;
+	font-size: 90px;
+}
+.fa-id-card-o{
+	color:#c12424;
+	font-size: 90px;
+}
+.fa-pencil{
+	color:#60c659;
+	font-size: 90px;	
+}
+
+
+.fa-bullhorn{
+color:#8d5596;
+	font-size: 90px;	
+}
+
+.fa-paint-brush{
+color:#c49b35;
+	font-size: 90px;	
+}
+#about{
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.fa-film{
+	color:#6096bc;
+	font-size: 90px;	
+}
+
+footer {
+
+	background-color: #424344;
+	color:#fff; 
+	text-align: center;
+	
+	margin-bottom: -30px;
+}
+
+#background{
+	height:100%;
+	background-image:url("iron5.jpg");
+	padding-left:0px;
+	padding-right:0px;
+}
+#background1{
+	height:100%;
+	background-color:#fff;
+	padding-left:0px;
+	padding-right:0px;
+}
+#background2{
+	height:100%;
+
+	padding-left:0px;
+	padding-right:0px;
+}
+
+#service{
+	    padding: 50px;
+}
+
+
+.col-md-4{
+	text-align:center;
+}
+	.navbar-inverse .navbar-nav .active a {
+
+    background-color: black;
+    opacity:0.7;
+}
+	.navbar-inverse .navbar-nav  a {
+		color:#fff;
+		font-weight:bold;
+    
+  
+}
+	a:hover{
+
+    background-color: black;
+    opacity:0.3;
+
+}
+	
+.navbar-inverse
+{
+	
+	background:transparent;
+	border:none;
+}
+
+
+#text{
+	text-align:center;
+	color:grey;
+	font-style:italic;
+}
+#section{
+
+	padding-bottom: 90px;
+    padding-top: 90px;
+}
+
+#con{
+	
+	padding:30px;
+}
+
+.btn{
+   
+    border-color: black;
+}
+.btn:hover{
+	background-color:#cdcfd3;
+	color:black;
+}
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+#emp{
+	width: 95%;
+}
+
+h1{
+	text-align:center; 
+	font-family:Times New Roman; 
+	
+	 
+}
+#d{
+	
+	padding-top: 20px; 
+	padding-bottom: 20px;
+}
+
+#c{
+	text-align:center;
+	color:#fff; 
+	background-color:#303333;
+	opacity:0.9;
+	height:100%;
+}
+
+
+
+input[type=text],[type=email], select, textarea {
+      width: 100%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    resize: vertical;
+}
+
+label {
+	color: #ffffff;
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #a06e23;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container1{
+  border-radius: 5px;
+    
+    padding: 207px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+ .carousel-caption h1{
+position: relative;
+bottom: 11em;
+  }
+
+
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+		  .container1 {
+    border-radius: 5px;
+    padding: 0px;
+}
+
+  .carousel-caption h1{
+font-size: 16px;
+bottom: 0px;
+  }
+
+
+  .carousel-caption h2{
+font-size: 16px;
+  }
+   .carousel-caption a{
+font-size: 7px;
+  }
+
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+#b{
+	color:#505254; 
+	   font-size: 15px;  
+	   padding-bottom: 50px; 
+	   padding-top: 20px;
+	   text-align:center;
+}
+
+ul{
+	list-style-type: none;
+}
+
+@media(min-width: 768px){
+
+  .marketing {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+ 
+    margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+  }
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+  .navbar-collapse {
+    position: relative;
+    top: -10px;
+    padding-right: 0px;
+}
+
+  /* Bump up size of carousel content */
+
+  .carousel-caption p {
+    
+    line-height: 1.4;
+  }
+
+
+
+}
+
+
+
